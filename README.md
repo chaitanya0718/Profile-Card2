@@ -61,7 +61,7 @@ img{
                         National Defence Academy,<br> Khadakwasla,<br>
                         Indian Military Academy,<br> Dehradun</li>
                         <p>For more information click the below link</p>
-                        <a href="https://en.wikipedia.org/wiki/Anil_Chauhan">Anil Chauhan>
+                        <a href="https://en.wikipedia.org/wiki/Anil_Chauhan">Anil Chauhan
                         </a>
                     </div>
             </dl>
